@@ -218,19 +218,4 @@ node index.js
 
 ---
 
-## 🔮 What's Next (Extend This Project)
-
-- 🤖 Connect a **chat model** (Mistral, Gemini) to generate answers from retrieved chunks — full RAG!
-- 💬 Build a **conversational interface** on top of this pipeline.
-- 📂 Support **multiple PDFs** with namespace-based separation in Pinecone.
-- 🌐 Wrap it in an **Express API** to serve as a document Q&A backend.
-
----
-
-## 📄 License
-
-MIT — free to use, modify, and build upon.
-
----
-
 > Built with ❤️ using LangChain, Mistral AI, and Pinecone.
